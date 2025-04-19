@@ -21,7 +21,7 @@ To uncover trends in sales, customer behavior, seller performance, and retention
 
 ## 🗃️ Dataset
 
-- 7 CSV files: `orders`, `order_items`, `customers`, `payments`, `products`, `geolocation`, `sellers`
+- 6 CSV files: `orders`, `order_items`, `customers`, `payments`, `products`, `sellers`
 - Loaded into SQL using Python (via `pymysql` or `sqlite3`)
 
 ---
